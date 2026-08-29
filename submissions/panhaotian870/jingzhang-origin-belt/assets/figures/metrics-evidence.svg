@@ -80,5 +80,5 @@
 <rect x="40" y="505" width="720" height="75" rx="8" fill="#111827" stroke="#1f2937"/>
 <text x="60" y="525" fill="#9ca3af" font-size="10">• 公告 (2026-05-09) · 任务书 (2026-05-18) · 城市设计管理办法 · 控规编制办法 · 用地分类指南</text>
 <text x="60" y="545" fill="#9ca3af" font-size="10">• 临时边界数据 (provisional) — 基于公告文字四至推算，不等同于官方红线</text>
-<text x="60" y="565" fill="#f59e0b" font-size="10">⚠️ 所有空间数据为概念建议，面积指标待正式数据复核。远期指标非政府承诺。</text>
+<text x="60" y="565" fill="#f59e0b" font-size="10">△ 所有空间数据为概念建议，面积指标待正式数据复核。远期指标非政府承诺。</text>
 </svg>

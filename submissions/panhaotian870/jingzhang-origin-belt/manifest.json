@@ -46,28 +46,28 @@
       "path": "assets/figures/land-use-structure.png",
       "role": "proposal_figure",
       "required": true,
-      "sha256": "1d0aab698993ea0ecd5f18d5f914a86121613a26137da3faeaab9f8109b77403",
+      "sha256": "b60571de59733d84f43ce55d24a15860b23f1dcb53580c7b0713be6c74ed71ee",
       "language": "zh"
     },
     {
       "path": "assets/figures/land-use-structure.svg",
       "role": "asset",
       "required": false,
-      "sha256": "90ac1695aa0c94a6f81793cd78f72f75b47790d41bd82acddad4403babd6aafe",
+      "sha256": "fa31a450d865d6bad81a884f9eb72b6536c04405544a500678b1346050969fd9",
       "language": "neutral"
     },
     {
       "path": "assets/figures/metrics-evidence.png",
       "role": "proposal_figure",
       "required": true,
-      "sha256": "8bf2afb2635558d1baf273c84c327eab8910e519d5c18836bf619afcf5c52284",
+      "sha256": "6cc06aac0f681b68be396fd9e9f441257e6c8106d74420b85b0abcecdfb32b51",
       "language": "zh"
     },
     {
       "path": "assets/figures/metrics-evidence.svg",
       "role": "asset",
       "required": false,
-      "sha256": "c26b4b9d6a9475b886111d2441a03b508648684eeeac4b316e30002cc9bd3be4",
+      "sha256": "fa0793c23d9391117657f524c13354db957fa00adb9659142ce4fc1c1a89f7d6",
       "language": "neutral"
     },
     {
@@ -293,7 +293,7 @@
       "path": "assets/figures/land-use-structure.en.png",
       "role": "proposal_figure",
       "required": true,
-      "sha256": "a74efa46bda084c73618d246f902fe2eebdd1a9bbffa142406437a879bace33a",
+      "sha256": "0bb84245ace404293b6fc5def86d4b897f8af9c1c14dcb75efb6d8c2c4d9fb24",
       "language": "en",
       "translation_of": "assets/figures/land-use-structure.png"
     },
@@ -317,7 +317,7 @@
       "path": "assets/figures/metrics-evidence.en.png",
       "role": "proposal_figure",
       "required": true,
-      "sha256": "c3dfb0be7a3a57baf9c78c5540528bcb369cc2f0c46b8841cde7faa0a78334cd",
+      "sha256": "0010e14e478ea1a076d4a9ca86a1297468b5525d394d84b8af6a21478e05b96d",
       "language": "en",
       "translation_of": "assets/figures/metrics-evidence.png"
     },
